@@ -1,0 +1,37 @@
+_repo: Ingersolliaof-His-Opinions-and-Beliefs_38106
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Robert G. (Robert Green)
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Bob
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+  editor:
+    agent_name: Handford, Thomas W.
+    alias: Elmo
+    gutenberg_agent_id: '38027'
+    url: http://www.gutenberg.org/2009/agents/38027
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38106'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ingersoll, Robert Green, 1833-1899 -- Quotations'
+- !lcc 'PS'
+title: "Ingersollia\r\nGems of Thought from the Lectures, Speeches, and Conversations\
+  \ of Col. Robert G. Ingersoll, Representative of His Opinions and Beliefs"
+url: http://www.gutenberg.org/ebooks/38106
